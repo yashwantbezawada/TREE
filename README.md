@@ -2,8 +2,6 @@
 Temporal Route Exploration Engine
 
 **Framework:**
-# File: TREE_OF_LIFE_CONCEPT.md
-
 # Tree of Life: Conceptual Framework Leveraging LLM Agents
 
 ## Overview
